@@ -64,6 +64,6 @@
         </style>
     </head>
     <body>
-        <h1>Laravel Screencasts</h1>
+        <h1 style="color: red">Laravel Screencasts</h1>
     </body>
 </html>
